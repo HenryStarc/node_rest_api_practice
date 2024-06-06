@@ -32,3 +32,10 @@ function now() { [native code] } GET /api/users/
 1717620905943 GET /api/users
 1717620950603 PATCH /api/users/665f765b51a74a3b63ffe4e3
 1717620960789 GET /api/users
+1717673427589 POST /api/createPost
+1717673457932 POST /api/createPost
+1717673536101 POST /api/createPost
+1717673611190 POST /api/users
+1717673716672 POST /api/createPost
+1717673819274 POST /api/createPost
+1717673855088 POST /api/createPost
